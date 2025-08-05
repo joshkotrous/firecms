@@ -61,7 +61,7 @@
     "babel-plugin-react-compiler": "beta",
     "eslint-plugin-react-compiler": "beta",
     "typescript": "^5.7.3",
-    "vite": "^5.4.14"
+    "vite": "^5.4.16"
   },
   "scripts": {
     "dev": "vite",
